@@ -13,6 +13,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      toc: true
   - scope:
       path: ""
     values:
@@ -24,3 +25,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-toc
