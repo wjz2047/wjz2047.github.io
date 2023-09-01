@@ -26,3 +26,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-toc
+  
+repository: wjz2047/wjz2047.github.io
