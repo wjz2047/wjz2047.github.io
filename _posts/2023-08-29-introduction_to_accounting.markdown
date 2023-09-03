@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to accounting"
-category: Dynamics
+categories: Dynamics
 author: Logan Wei
 ---
 

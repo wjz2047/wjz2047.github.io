@@ -1,4 +1,4 @@
 ---
 name: Dynamics
 ---
-Microsoft dynamics.
+Microsoft Dynamics 365.

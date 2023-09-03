@@ -1,4 +1,4 @@
 ---
 name: Tax
 ---
-Tax in Microsoft Dynamics.
+Tax in Microsoft Dynamics 365.

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Others
+categories: Others
 author: Logan Wei
 ---
 

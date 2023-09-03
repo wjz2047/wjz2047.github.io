@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to X++!"
-category: X++
+categories: X++
 author: Logan Wei
 ---
 

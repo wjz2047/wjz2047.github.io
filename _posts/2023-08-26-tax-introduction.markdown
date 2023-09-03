@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Tax!"
-category: Tax
+categories: Tax
 author: Logan Wei
 ---
 

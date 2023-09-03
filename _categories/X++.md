@@ -1,4 +1,4 @@
 ---
 name: X++
 ---
-X++ language.
+X plus plus language.

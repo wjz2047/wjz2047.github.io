@@ -1,4 +1,5 @@
 ---
 name: Others
 ---
-Uncategoried items.
+
+Uncategorized postes.
