@@ -12,6 +12,12 @@ However, we still need to do some things to make our site powerful.
 # Table of contents
 [How To Add A Table Of Contents To Your Jekyll Blog](https://wjz2047.github.io/others/2023/09/02/How-to-add-a-Table-Of-Contents-to-your-Jekyll-blog.html)
 
+# Theme
+[https://github.com/jekyll/minima](https://github.com/jekyll/minima)<br> 
+[https://github.com/mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+
+
+
 
 
 

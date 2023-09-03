@@ -4,7 +4,7 @@ categories: Others
 author: Logan Wei
 ---
 
-The table-of-contents is the first functionality I want to add to my blog.<br>
+The Table-Of-Contents is the first functionality I want to add to my blog.<br>
 There're a lot of Jekyll plugins to support this.<br>
 The one I'm using is [jekyll-toc](https://github.com/toshimaru/jekyll-toc)
 
